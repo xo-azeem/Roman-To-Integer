@@ -38,5 +38,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Roman-To-Integer-LeetCode/assets/171427226/ff1d668a-0fb5-4cdb-9897-c5b64308c5e6)
 
-Time Complexity: O(n).
+Time Complexity: O(n).</br>Space Complexity: O(1).
 </div>
