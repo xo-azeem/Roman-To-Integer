@@ -22,6 +22,12 @@ Explanation: III = 3.
 
 Example 2:
 
+Input: s = "IX"
+Output: 9
+Explanation: I = 1, X = 10. I coming before X makes it 9.
+
+Example 3:
+
 Input: s = "LVIII"
 Output: 58
 Explanation: L = 50, V= 5, III = 3.
