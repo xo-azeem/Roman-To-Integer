@@ -4,7 +4,7 @@ LeetCode Q # 13.
 
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
-Each symbol having their own value as </br></br>I = 1</br>V = 5</br>X = 10</br>L = 50</br>C = 100</br>D = 500</br>M = 1000
+>Each symbol having their own value as </br></br>I = 1</br>V = 5</br>X = 10</br>L = 50</br>C = 100</br>D = 500</br>M = 1000
 
 For example, 2 is written as II in Roman numeral, just two ones added together. 12 is written as XII, which is simply X + II. The number 27 is written as XXVII, which is XX + V + II.
 
